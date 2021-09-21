@@ -1,5 +1,5 @@
-#This repo is about Animals.
+# This repo is about Animals.
 
-##List of animals
+## List of animals
 *Lion
 *Tiger
